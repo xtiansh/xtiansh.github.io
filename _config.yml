@@ -1,10 +1,8 @@
 # Site settings
 title: YU Blog
 SEOTitle: 山芋的批话BOT
-header-img: img/post-bg-desk.jpg
-#email: qiubaiying@gmail.com
-description: "批话很多，找个地儿存放"
-#keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+header-img: img/post-bg-rwd.jpg
+description: "批话很多，找个地儿存放" 
 url: "http://xtiansh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xtiansh/xtiansh.github.io.git" # you code repository
