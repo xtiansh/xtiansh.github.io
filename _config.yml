@@ -9,7 +9,7 @@ github_repo: "https://github.com/xtiansh/xtiansh.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "著名奶茶鉴定专家"
+sidebar-about-description: "不著名奶茶鉴定专家"
 sidebar-avatar: /img/about-pics.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
