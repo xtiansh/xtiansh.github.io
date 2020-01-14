@@ -40,7 +40,15 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: b9dceeac05b09b9fe2c6                            #生成的clientID
+  clientSecret: 6028fda0e726e2bb28cc723e3b6117453c889ac4    #生成的clientSecret
+  repo: xtiansh.github.io    #仓库名称
+  owner: xtiansh    #github用户名
+  admin: xtiansh
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计
 
